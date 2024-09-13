@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Vivek Thakkar</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivek722&label=Profile%20views&color=0e75b6&style=flat" alt="vivek722" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vivek722" alt="vivek722" /></a> </p>
 
-- 🔭 I’m currently working in **a Sartup as a Software developer**
+- 🔭 I’m currently working in **a Sartup as a Full Stack Developer**
 
-- 👯 I’m looking to collaborate on **AI/ML Projects**
+- 👯 I’m looking to collaborate on **Web Devlopment Projects,AI,Ml Projects**
 
-- 👨‍💻 All of my projects are available at [https://aspirefolio.link/](https://aspirefolio.link/)
+  - 👨‍💻 All of my projects are available at [https://aspirefolio.link/](https://aspirefolio.link/)
 
-- 💬 Ask me about **AI, ML, Algorithms, Database**
+- 💬 Ask me about **Web Devlopment, Frontend Devlopment, Backend Devlopment, Database Management**
 
 - 📫 How to reach me **vivekthakkary007@gmail.com**
 
