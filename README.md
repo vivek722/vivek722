@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **vivekthakkary007@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/12HMJcJQPs2Mg7xpZNfudvv0kpLUDMTiw/view?usp=sharing](https://drive.google.com/file/d/12HMJcJQPs2Mg7xpZNfudvv0kpLUDMTiw/view?usp=sharing)](https://drive.google.com/file/d/1MAcrN0oe59ehtoZ9sKST0UD5ng9uyz_D/view?usp=drive_link)
+- 📄 Know about my experiences https://drive.google.com/file/d/1MAcrN0oe59ehtoZ9sKST0UD5ng9uyz_D/view?usp=drive_link
 
 - ⚡  **I like to interact with new people**
 
