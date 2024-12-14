@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Web Devlopment Projects,AI,Ml Projects**
 
-  - 👨‍💻 All of my projects are available at [https://aspirefolio.link/](https://aspirefolio.link/)
+  - 👨‍💻 All of my projects are available at [https://aspirefolio.link/](https://vivek722.github.io/Portfolio/)
 
 - 💬 Ask me about **Web Devlopment, Frontend Devlopment, Backend Devlopment, Database Management**
 
